@@ -3,7 +3,7 @@
 👀 I’m interested in project management, full-stack development, and using tech to empower communities.  
 🌱 I’m currently learning Python, JavaScript, HTML/CSS, and React.  
 💞️ I’m looking to collaborate on beginner-friendly open-source projects, community tech initiatives, and educational tools.  
-📫 How to reach me: monishan@example.com | [LinkedIn Profile URL]  
+📫 How to reach me: www.linkedin.com/in/mathan-monishan2003  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I love reading books, playing volleyball, and organizing social awareness projects!
 
